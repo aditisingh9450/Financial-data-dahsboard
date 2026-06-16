@@ -1,0 +1,74 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 126.2757009345795,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 267,
+            "y": 107
+          },
+          "nodeIndex": "finance_transactions",
+          "nodeLineageTag": "d4468958-fb0b-48f2-8ab4-5252c22c92a7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 564,
+            "y": 0
+          },
+          "nodeIndex": "customers",
+          "nodeLineageTag": "1a03c3a1-149c-44a3-bcdb-e247ff4c9bb4",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "Calendar Table",
+          "nodeLineageTag": "beb1e0ac-65fe-47de-9d40-39e0542c300a",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 848,
+            "y": 127.5
+          },
+          "nodeIndex": "Dynamic Metrics",
+          "nodeLineageTag": "943c0598-99a2-4431-b51d-3eefe0e3653b",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 95.111111111111114,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
